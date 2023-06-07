@@ -1,0 +1,26 @@
+.learnMore{
+    font-size: 15px;
+    height: 48px;
+    width: 146px;
+    border-radius: 25px;
+    background-color: #f2f2f2;
+    border: none;
+    font-family: 'Lexend Deca', sans-serif;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    border: #f2f2f2 2px solid;
+}
+.learnMore:hover{
+    background-color: transparent;
+    transition: all 0.3s ease-in-out;
+    color: white;
+}
+.orange{
+    color: #E28625;
+}
+.blue{
+    color: #006971;
+}
+.green{
+    color: #004140;
+}

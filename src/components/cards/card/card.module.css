@@ -1,0 +1,30 @@
+.card{
+    width: 307px;
+    height: 500px;
+    padding: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card:first-child{
+    border-radius: 8px 0 0 8px;
+}
+.card:last-child{
+    border-radius:0 8px 8px 0;
+}
+.information{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white;
+    
+}
+.orange{
+    background-color: #E28625;
+}
+.blue{
+    background-color: #006971;
+}
+.green{
+    background-color: #004140;
+}
