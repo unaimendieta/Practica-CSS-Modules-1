@@ -4,3 +4,9 @@
     height: 500px;
     margin: auto;
 }
+@media screen and (max-width: 400px) {
+    .cards{
+        display: flex;
+        flex-direction: column;
+    }
+  }
